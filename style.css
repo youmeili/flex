@@ -1,0 +1,205 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.clearfix{
+    clear: both;
+}
+ul li{
+    list-style: none;
+}
+.header{
+    background: #eee;
+    padding: 3% 0;
+    text-align: center;
+}
+.header img{
+    display: block;
+    margin: 0 auto;
+}
+.banner{
+    position: relative;
+}
+.banner img{
+    display: block;
+    width: 100%;
+}
+.ban_main{
+    width: 80%;
+    position: absolute;
+    margin: 0 auto;
+    left: 10%;
+    top: 8%;
+}
+.box1{
+    margin: 5% 0;
+}
+.box1 img{
+    display: block;
+    width: 100%;
+    margin-bottom: 3%;
+}
+.box2{
+    margin: 5% 0;
+}
+.box2 ul{
+    width: 96%;
+    margin: 0 auto;
+}
+.box2 .left{
+    width: 59%;
+    float: left;
+    padding: 5% 3%;
+}
+.box2 .right{
+    width: 35%;
+    float: right;
+}
+.pic-left .left{
+    width: 35%;
+    float: left;
+    padding: 0;
+}
+.pic-left .right{
+    width: 59%;
+    float: right;
+    padding: 5% 3%;
+}
+.box2 img{
+    width: 100%;
+    display: block;
+}
+.box2 h3{
+    font-size: 0.2rem;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+.box2 p{
+    font-size: 0.16rem;
+}
+.box3 .box-in{
+    width: 96%;
+    margin: 0 auto;
+}
+.box3 .title h2{
+    font-size: .25rem;
+    font-weight: bold;
+    text-align: center;
+    color: #1C1C34;
+    margin: 10% 0 0;
+    letter-spacing: 1px;
+}
+.box3 li{
+    position: relative;
+}
+.box3 .index{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 60px;
+    left: 43%;
+    top: -23%;
+    background: #fff;
+    text-align: center;
+    font-size: .25rem;
+    font-weight: bold;
+}
+.box3 li{
+    width: 100%;
+    padding: 10% 0;
+    margin-top: 11%;
+}
+.box3 .purple{
+    background: #6F28BB;
+}
+.box3 .blue{
+    background: #3493FE;
+}
+.box3 .pink{
+    background: #F95263;
+}
+.box3 .purple .index{
+    color: #6F28BB;
+}
+.box3 .blue .index{
+    color: #3493FE;
+}
+.box3 .pink .index{
+    color: #F95263;
+}
+.box3 p{
+    color: #fff;
+    padding: 0 3%;
+    border-left: 1px solid #fff;
+    font-size: .15rem;
+}
+
+.box3 .left{
+    width: 50%;
+    float: left;
+}
+.box3 .right{
+    width: 50%;
+    float: right;
+}
+.box3 .left img{
+    width: 80%;
+    margin-left: 10%;
+    display: block;
+}
+.box4 .title h2{
+    font-size: .25rem;
+    font-weight: bold;
+    text-align: center;
+    color: #1C1C34;
+    margin: 10% 0 0;
+    letter-spacing: 1px;
+}
+.box4 ul{
+    margin: 8% 0 0;
+}
+.box4 .header1 h3{
+    color: #fff;
+    width: 43%;
+    font-size: .23rem;
+    background: #6F28BB;
+    text-align: center;
+    padding: 3% 0;
+}
+.box4 .content1{
+    width: 96%;
+    margin: 6% auto;
+}
+.box4 .content1 .left{
+    width: 50%;
+    float: left;
+}
+.box4 .content1 .header2 h3{
+    padding: 10% 8%;
+    color: #fff;
+    background: #6F28BB;
+}
+.box4 .content1 .header2 .h3_1{
+    padding: 3.5% 8%;
+}
+.box4 .content1 h3{
+    font-size: .19rem;
+}
+.box4 .content1 .content2{
+    font-size: .13rem;
+    background: #EEEEEE;
+    margin: 0;
+    padding: 5%;
+}
+.box4 .content1 .content2 li{
+    margin: 0 0 1% 0;
+    letter-spacing: 1px;
+}
+.box4 .content1 .right{
+    width: 48%;
+    float: right;
+}
+.box4 .tips{
+    margin: 0 0 9% 0;
+}
